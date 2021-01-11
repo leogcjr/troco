@@ -29,7 +29,7 @@ clonar projeto = https://github.com/leogcjr/troco.git
 
 Executar classe main Troco.java
 
-- pela linha de comando executar a classe atraves do comando na raiz da pasta (/src)
+- pela linha de comando executar o comando abaixo diretamente na pasta da classe
 
 1º javac Troco.java
 
