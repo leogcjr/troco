@@ -21,3 +21,18 @@ Exemplos:
     - 1 x R$ 10,00
 
     - 1 x R$ 5,00
+
+    
+## Rodar a aplicação
+
+clonar projeto = https://github.com/leogcjr/troco.git
+
+Executar classe main Troco.java
+
+- pela linha de comando executar a classe atraves do comando na raiz da pasta (/src)
+
+1º javac Troco.java
+
+2º java Troco.class
+
+- Caso preferir executar pela IDE - Run As > JavaAplication
